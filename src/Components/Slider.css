@@ -1,0 +1,36 @@
+.opacity-image{
+  opacity: 0.6;
+}
+
+.corousel-caption{
+  bottom: 350px;
+  
+}
+.carousel-caption h2{
+  
+  font-family: 'Poppins', sans-serif; 
+	font-size: 90px;
+  color: black;
+  text-align: left;
+	letter-spacing: 0px;
+	margin-top: 25px;
+}
+
+.carousel-caption p {
+  font-family: 'Poppins', sans-serif;
+  
+	width: 60%;
+  color: #121412;
+  text-align: left;
+	font-size: 30px;
+	letter-spacing: 0pxd;
+}
+
+.carousel-caption a{
+  background: #278233 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+	padding: 10px 30px;
+	display: inline-block;
+	color: white;
+	margin-top: 15px;
+}

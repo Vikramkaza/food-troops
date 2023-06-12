@@ -1,0 +1,31 @@
+.intro-container{
+    height: 100vh;
+}
+.intro-container h1{
+    font-family: 'Poppins', sans-serif; 
+    margin-top: 98.85px;
+    margin-left: 209px;
+    padding:30px;
+}
+.v1{
+  border-left: 10px solid #519259;
+  height: 120px;
+  left: 50%;
+  margin-left: 222px;
+  top: 0;
+}
+.intro-container img{
+    margin-left: 100px;
+    margin-top: 67px;
+    width: 782px;
+    height: 680px;
+}
+.intro-container p{
+    font-family: 'Poppins', sans-serif;
+    word-wrap: break-word;
+    height: 469px;
+    width: 879px;
+    font-size: 36px;
+    margin-top: -565px;
+    margin-left: 943px;
+}
